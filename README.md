@@ -1,4 +1,3 @@
-Premier Projet Backend : Vers un Site E-commerce
 Dans mon tout premier projet backend, j'ai exploré les bases du développement côté serveur pour créer une API afin d'avoir la base pour mo projet de création d'un site d'e-commerce
 Cela m'a permit d'apprendre plein de nouveaux outils :
 
