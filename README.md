@@ -6,3 +6,4 @@ Cela m'a permit d'apprendre plein de nouveaux outils :
 - Sécurité avec JWT et CryptoJS : J'ai expérimenté l'authentification sécurisée avec JWT et le chiffrement des mots de passe pour garantir la protection des données.
 - Tests avec Postman : J'ai utilisé Postman pour tester et valider les fonctionnalités de mon API, assurant sa fiabilité dès le début du processus.
 - Paiements avec Stripe : L'intégration de l'API Stripe m'a permis d'explorer les bases des transactions en ligne, ouvrant ainsi la voie à des fonctionnalités de paiement dans mon futur site e-commerce.
+![Preview](preview.png)
